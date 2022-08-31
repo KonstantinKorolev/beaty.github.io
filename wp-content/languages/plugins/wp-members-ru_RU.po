@@ -1,0 +1,1563 @@
+# Translation of Plugins - WP-Members Membership Plugin - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - WP-Members Membership Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-06-05 02:02:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - WP-Members Membership Plugin - Stable (latest release)\n"
+
+#: includes/admin/class-wp-members-admin-users.php:178
+msgid "%s deactivated"
+msgstr "%s запись деактивирована"
+
+#: includes/admin/class-wp-members-admin-users.php:147
+msgid "%s users deactivated"
+msgstr "%s пользователей деактивировано"
+
+#: includes/admin/class-wp-members-products-admin.php:185
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:62
+msgid "Posts"
+msgstr "Записи"
+
+#: includes/admin/class-wp-members-products-admin.php:644
+#: includes/admin/class-wp-members-products-admin.php:745
+#: includes/class-wp-members-products.php:340
+msgid "Membership"
+msgstr "Членство"
+
+#: includes/admin/class-wp-members-products-admin.php:598
+msgid "Required Membership"
+msgstr "Требуется членство"
+
+#: includes/class-wp-members-dialogs.php:73
+#: includes/class-wp-members-dialogs.php:158
+msgid "Username or Email"
+msgstr "Имя пользователя или email"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:93
+#: includes/class-wp-members-dialogs.php:65
+msgid "No fields selected for deletion"
+msgstr "Не выбраны поля для удаления"
+
+#: includes/admin/tabs/class-wp-members-fields-table.php:66
+msgid "Sort"
+msgstr "Упорядочить"
+
+#: includes/admin/class-wp-members-admin-posts.php:305
+msgid "Status"
+msgstr "Состояние"
+
+#: includes/admin/class-wp-members-admin-posts.php:219
+#: includes/walkers/class-wp-members-walker-nav-menu.php:224
+msgid "Cancel"
+msgstr "Отмена"
+
+#: includes/admin/class-wp-members-admin-posts.php:203
+msgid "Status:"
+msgstr "Статус:"
+
+#: includes/admin/class-wp-members-admin-posts.php:197
+#: includes/admin/class-wp-members-admin-posts.php:349
+msgid "Hidden"
+msgstr "Скрыто"
+
+#: includes/class-wp-members-dialogs.php:150
+msgid "Log Out"
+msgstr "Выход"
+
+#: includes/admin/tabs/class-wp-members-dropins-table.php:71
+msgid "Enabled"
+msgstr "Включено"
+
+#: includes/admin/class-wp-members-products-admin.php:758
+msgid "Disable"
+msgstr "Выключить"
+
+#: includes/admin/class-wp-members-products-admin.php:757
+msgid "Enable"
+msgstr "Включить"
+
+#: includes/class-wp-members-products.php:364
+msgid "WP-Members Membership Products"
+msgstr "WP-Members членские товары"
+
+#: includes/class-wp-members-products.php:363
+msgid "Membership Product"
+msgstr "Членский товар"
+
+#: includes/class-wp-members-products.php:359
+msgid "Save %s Details"
+msgstr "Сохранить детали для %s"
+
+#: includes/class-wp-members-products.php:358
+msgid "Insert into item"
+msgstr "Вставить в элемент"
+
+#: includes/class-wp-members-products.php:357
+msgid "Not found in Trash"
+msgstr "Не найдено в корзине"
+
+#: includes/class-wp-members-products.php:356
+msgid "Not found"
+msgstr "Не найдено"
+
+#: includes/class-wp-members-products.php:355
+msgid "Search %s"
+msgstr "Искать %s"
+
+#: includes/class-wp-members-products.php:353
+#: includes/class-wp-members-products.php:354
+msgid "View %s"
+msgstr "Просмотр %s"
+
+#: includes/class-wp-members-products.php:352
+msgid "Update %s"
+msgstr "Обновить %s"
+
+#: includes/class-wp-members-products.php:351
+msgid "Edit %s"
+msgstr "Изменить %s"
+
+#: includes/class-wp-members-products.php:350
+msgid "New %s"
+msgstr "Новый %s"
+
+#: includes/class-wp-members-products.php:349
+msgid "Add New"
+msgstr "Добавить новый"
+
+#: includes/class-wp-members-products.php:348
+msgid "Add New %s"
+msgstr "Добавить %s"
+
+#: includes/class-wp-members-products.php:347
+msgid "All %s"
+msgstr "Все %s"
+
+#: includes/admin/class-wp-members-products-admin.php:709
+#: includes/class-wp-members-products.php:341
+#: includes/class-wp-members-products.php:346
+msgid "Memberships"
+msgstr "Членства"
+
+#: includes/class-wp-members-dialogs.php:106
+#: includes/class-wp-members-forms.php:2184
+msgid "Please indicate that you agree to the %s Terms of Service %s"
+msgstr "Подтвердите согласие с %s Условиями обслуживания %s"
+
+#: includes/admin/class-wp-members-admin-users.php:355
+msgid "Not Exported"
+msgstr "Не экспортировано"
+
+#: includes/admin/class-wp-members-admin-users.php:349
+msgid "Deactivated"
+msgstr "Деактивировано"
+
+#: includes/admin/class-wp-members-admin-users.php:344
+msgid "Expired"
+msgstr "Истекла"
+
+#: includes/admin/class-wp-members-admin-users.php:342
+msgid "Trial"
+msgstr "Пробная"
+
+#: includes/admin/class-wp-members-admin-users.php:341
+msgid "Pending"
+msgstr "В ожидании"
+
+#: includes/admin/class-wp-members-admin-users.php:29
+#: includes/admin/class-wp-members-admin-users.php:35
+#: includes/admin/class-wp-members-admin-users.php:82
+msgid "Deactivate"
+msgstr "Деактивировать"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:216
+msgid "Enables logged in menus"
+msgstr "Включает меню после входа"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:216
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:224
+msgid "Clone menus"
+msgstr "Клонировать меню"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:284
+msgid "Columns"
+msgstr "Столбцы"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:280
+msgid "Rows"
+msgstr "Строки"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:230
+msgid "This field is always required"
+msgstr "Это поле всегда требуется"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:221
+msgid "This field is always displayed"
+msgstr "Это поле всегда показывается"
+
+#: includes/admin/class-wp-members-products-admin.php:259
+#: includes/admin/class-wp-members-products-admin.php:261
+#: includes/admin/class-wp-members-products-admin.php:306
+#: includes/admin/class-wp-members-products-admin.php:308
+msgid "Number"
+msgstr "Номер"
+
+#: includes/admin/class-wp-members-products-admin.php:251
+msgid "No Role"
+msgstr "Без роли"
+
+#: includes/admin/class-wp-members-products-admin.php:226
+msgid "Name (slug)"
+msgstr "Имя (ярлык)"
+
+#: includes/admin/class-wp-members-products-admin.php:213
+msgid "Year"
+msgstr "Год"
+
+#: includes/admin/class-wp-members-products-admin.php:213
+msgid "Month"
+msgstr "Месяц"
+
+#: includes/admin/class-wp-members-products-admin.php:213
+msgid "Week"
+msgstr "Неделя"
+
+#: includes/admin/class-wp-members-products-admin.php:213
+msgid "Day"
+msgstr "День"
+
+#: includes/admin/class-wp-members-products-admin.php:213
+#: includes/admin/class-wp-members-products-admin.php:262
+#: includes/admin/class-wp-members-products-admin.php:309
+msgid "Period"
+msgstr "Период"
+
+#: includes/admin/class-wp-members-products-admin.php:145
+msgid "Membership Product Details"
+msgstr "Подробности членской подписки"
+
+#: includes/admin/class-wp-members-products-admin.php:105
+msgid "Does not expire"
+msgstr "Бессрочно"
+
+#: includes/admin/class-wp-members-products-admin.php:100
+msgid "No role required"
+msgstr "Роль не требуется"
+
+#: includes/admin/class-wp-members-products-admin.php:73
+msgid "Last updated"
+msgstr "Последнее обновление"
+
+#: includes/admin/class-wp-members-products-admin.php:68
+#: includes/admin/class-wp-members-user-export.php:297
+msgid "Role"
+msgstr "Роль"
+
+#: includes/admin/class-wp-members-products-admin.php:67
+msgid "Slug"
+msgstr "Ярлык"
+
+#: includes/admin/dialogs.php:225
+msgid "If you like WP-Members please give it a %s&#9733;&#9733;&#9733;&#9733;&#9733;%s rating. Thanks!!"
+msgstr "Если вам нравится этот плагин, оцените его в %s&#9733;&#9733;&#9733;&#9733;&#9733;%s . Спасибо!!"
+
+#: includes/admin/dialogs.php:224
+msgid "Like WP-Members?"
+msgstr "Нравится WP-Members?"
+
+#: includes/admin/class-wp-members-user-export.php:277
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:461
+msgid "User ID"
+msgstr "ID пользователя"
+
+#: includes/admin/tabs/class-wp-members-dropins-table.php:74
+#: includes/walkers/class-wp-members-walker-nav-menu.php:186
+msgid "Description"
+msgstr "Описание"
+
+#: includes/admin/tabs/class-wp-members-dropins-table.php:73
+msgid "Version"
+msgstr "Версия"
+
+#: includes/admin/tabs/class-wp-members-dropins-table.php:72
+msgid "File"
+msgstr "Файл"
+
+#: includes/admin/tabs/class-wp-members-dropins-table.php:70
+msgid "Name"
+msgstr "Имя"
+
+#: includes/admin/tabs/class-wp-members-fields-table.php:64
+msgid "Users Search"
+msgstr "Поиск пользователей"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:459
+msgid "Subscription Type"
+msgstr "Тип подписки"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:768
+msgid "Form field order updated."
+msgstr "Сортировка полей форм обновлена."
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:725
+msgid "%s was updated"
+msgstr "%s обновлено"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:712
+msgid "%s was added"
+msgstr "%s добавлено"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:618
+msgid "Meta Key is required. Nothing was updated."
+msgstr "Требуется ключ мета. Ничего не добавлено."
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:617
+msgid "Field Label is required. Nothing was updated."
+msgstr "Требуется ярлык для поля. Ничего не добавлено."
+
+#: includes/admin/tabs/class-wp-members-dropins-table.php:117
+#: includes/admin/tabs/class-wp-members-fields-table.php:108
+msgid "Save Settings"
+msgstr "Сохранить настройки"
+
+#: includes/admin/tabs/class-wp-members-fields-table.php:107
+msgid "Delete Selected"
+msgstr "Удалить выбранное"
+
+#: includes/admin/tabs/class-wp-members-fields-table.php:57
+msgid "Display Label"
+msgstr "Показывать ярлык"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:449
+msgid "Drag and drop to reorder fields"
+msgstr "Захватите и перетаскивайте для изменения порядка полей"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:402
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:726
+msgid "Return to Fields Table"
+msgstr "Вернуться к таблице полей"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:272
+msgid "Maximum Value"
+msgstr "Максимальное значение"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:268
+msgid "Minimum Value"
+msgstr "Минимальное значение"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:259
+msgid "Title"
+msgstr "Название"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:251
+msgid "Pattern"
+msgstr "Шаблон"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:243
+msgid "Placeholder"
+msgstr "Заполнитель"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:208
+msgid "date"
+msgstr "дата"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:207
+msgid "number"
+msgstr "номер"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:136
+msgid "Field Manager Documentation"
+msgstr "Документация по управлению полями"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:122
+msgid "Fields deleted"
+msgstr "Поля удалены"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:95
+msgid "Are you sure you want to delete the following fields?"
+msgstr "Вы точно хотите удалить эти поля?"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:345
+msgid "Values (Displayed|Stored):"
+msgstr "Значения (Отображенные | Сохраненные):"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-captcha.php:98
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:246
+msgid "Really Simple CAPTCHA"
+msgstr "Really Simple CAPTCHA"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:381
+msgid "Value"
+msgstr "Значение"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:179
+#: includes/admin/tabs/class-wp-members-fields-table.php:58
+msgid "Meta Key"
+msgstr "Ключ мета"
+
+#: includes/admin/class-wp-members-admin-api.php:281
+msgid "Your custom email message content."
+msgstr "Содержимое для пользовательского email сообщения."
+
+#: includes/admin/class-wp-members-admin-api.php:275
+msgid "Custom email"
+msgstr "Пользовательское email сообщение"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:149
+msgid "Custom read more link (optional):"
+msgstr "Пользовательская ссылка читать далее (необязательно):"
+
+#: includes/admin/dialogs.php:145
+msgid "You have active settings that are not recommended."
+msgstr "Некоторые из ваших настроек не соответствуют рекомендованным."
+
+#: includes/admin/dialogs.php:146
+msgid "If you will not be changing these settings, you can turn off these warning messages by checking the \"Ignore warning messages\" in the settings below."
+msgstr "Если вы не будете менять эти настройки, вы можете отключить предупредительные сообщения, отметив \"Игнорировать предупреждения\" в настройках ниже."
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:336
+msgid "Stored values delimiter:"
+msgstr "Разделитель для сохраненных данных:"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:94
+msgid "Content"
+msgstr "Содержимое"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:166
+msgid "Subscription Settings"
+msgstr "Настройки подписки"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:205
+msgid "Other Settings"
+msgstr "Другие настройки"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:310
+msgid "Add to WP-Members Settings"
+msgstr "Добавить к настройкам WP-Members"
+
+#: includes/admin/class-wp-members-admin-users.php:150
+msgid "No users selected"
+msgstr "Пользователи не выбраны"
+
+#: includes/admin/class-wp-members-admin-users.php:173
+msgid "%s activated"
+msgstr "%s активирован"
+
+#: includes/admin/class-wp-members-admin-users.php:147
+msgid "%s users activated"
+msgstr "%s пользователь активирован"
+
+#: includes/admin/class-wp-members-admin-users.php:182
+msgid "That user is already active"
+msgstr "Этот пользователь уже активирован"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:196
+msgid "email"
+msgstr "эл.почта"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:200
+msgid "select (dropdown)"
+msgstr "выбор (выпадающий список)"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:201
+msgid "multiple select"
+msgstr "выбор нескольких компонентов"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:202
+msgid "radio group"
+msgstr "селективная кнопка"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:199
+msgid "multiple checkbox"
+msgstr "фиксирующая кнопка для выбора нескольких компонентов"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:204
+msgid "image"
+msgstr "картинка"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:206
+msgid "url"
+msgstr "url"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:209
+msgid "hidden"
+msgstr "скрытый"
+
+#: includes/class-wp-members-dialogs.php:41
+msgid "First Name"
+msgstr "Имя"
+
+#: includes/class-wp-members-dialogs.php:42
+msgid "Last Name"
+msgstr "Фамилия"
+
+#: includes/class-wp-members-dialogs.php:43
+msgid "Address 1"
+msgstr "Адрес 1"
+
+#: includes/class-wp-members-dialogs.php:44
+msgid "Address 2"
+msgstr "Адрес 2"
+
+#: includes/class-wp-members-dialogs.php:45
+msgid "City"
+msgstr "Город"
+
+#: includes/class-wp-members-dialogs.php:46
+msgid "State"
+msgstr "Штат / Область"
+
+#: includes/class-wp-members-dialogs.php:48
+msgid "Country"
+msgstr "Страна"
+
+#: includes/class-wp-members-dialogs.php:49
+msgid "Day Phone"
+msgstr "Телефон для связи днем"
+
+#: includes/class-wp-members-dialogs.php:51
+msgid "Confirm Email"
+msgstr "Подтвердите Email"
+
+#: includes/class-wp-members-dialogs.php:52
+msgid "Website"
+msgstr "Веб-сайт"
+
+#: includes/class-wp-members-dialogs.php:53
+msgid "Biographical Info"
+msgstr "Биография"
+
+#: includes/class-wp-members-dialogs.php:55
+msgid "Confirm Password"
+msgstr "Подтвердите Пароль"
+
+#: includes/class-wp-members-dialogs.php:56
+#: includes/class-wp-members-forms.php:2185
+msgid "TOS"
+msgstr "Правила"
+
+#: includes/class-wp-members-dialogs.php:116
+msgid "Update this file"
+msgstr "Обновить этот файл"
+
+#: includes/class-wp-members-dialogs.php:165
+msgid "This content is restricted to site members.  If you are an existing user, please log in.  New users may register below."
+msgstr "Этот контент доступен только пользователям. Если вы зарегистрированы, пожалуйста, войдите на сайт. Новые пользователи могут зарегистрироваться ниже."
+
+#: includes/class-wp-members-dialogs.php:169
+msgid "Sorry, that username is taken, please try another."
+msgstr "Извините, это имя пользователя уже занято. Пожалуйста, попробуйте другое."
+
+#: includes/class-wp-members-dialogs.php:170
+msgid "Sorry, that email address already has an account.<br />Please try another."
+msgstr "Извините, этот email уже использован.<br />Пожалуйста, попробуйте другой."
+
+#: includes/class-wp-members-dialogs.php:166
+msgid "Congratulations! Your registration was successful.<br /><br />You may now log in using the password that was emailed to you."
+msgstr "Поздравляем! Вы успешно зарегистрировались!<br /><br />Вы можете войти с помощью пароля, высланного вам на email."
+
+#: includes/class-wp-members-dialogs.php:138
+#: includes/class-wp-members-dialogs.php:171
+msgid "Your information was updated!"
+msgstr "Ваши данные были обновлены!"
+
+#: includes/class-wp-members-dialogs.php:87
+msgid "Password successfully changed!"
+msgstr "Пароль успешно сменен!"
+
+#: includes/admin/class-wp-members-admin-posts.php:165
+msgid "%s Restriction"
+msgstr "%s Ограничено"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:452
+msgid "Custom Post Type settings were updated"
+msgstr "Настройки типов пользовательских записей были обновлены"
+
+#: includes/class-wp-members-dialogs.php:94
+msgid "Forgot username?"
+msgstr "Вы забыли имя пользователя?"
+
+#: includes/class-wp-members-dialogs.php:95
+msgid "Click here"
+msgstr "Нажмите сюда"
+
+#: includes/class-wp-members-dialogs.php:47
+msgid "Zip"
+msgstr "Индекс"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:304
+msgid "Custom Post Types"
+msgstr "Типы пользовательских записей"
+
+#: includes/class-wp-members.php:1763
+msgid "log out"
+msgstr "выйти"
+
+#: includes/class-wp-members-dialogs.php:98
+#: includes/class-wp-members-dialogs.php:100
+msgid "Retrieve username"
+msgstr "Напомнить имя пользователя"
+
+#: includes/admin/class-wp-members-admin-api.php:427
+msgid "Retrieve Username"
+msgstr "Напомнить имя пользователя"
+
+#: includes/class-wp-members-dialogs.php:123
+msgid "Sorry, that email address was not found."
+msgstr "Извините, этот адрес email не был найден."
+
+#: includes/class-wp-members-dialogs.php:124
+msgid "An email was sent to %s with your username."
+msgstr "Мы выслали письмо на %s с вашим именем пользователя."
+
+#: includes/class-wp-members-dialogs.php:99
+msgid "Email Address"
+msgstr "Адрес эл.почты"
+
+#: includes/admin/class-wp-members-admin-api.php:618
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-captcha.php:179
+msgid "Width"
+msgstr "Ширина"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-captcha.php:179
+msgid "Height"
+msgstr "Высота"
+
+#: includes/class-wp-members-dialogs.php:54
+#: includes/class-wp-members-dialogs.php:74
+#: includes/class-wp-members-dialogs.php:159
+msgid "Password"
+msgstr "Пароль"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-captcha.php:122
+msgid "Site Key"
+msgstr "Ключ сайта"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-captcha.php:123
+#: includes/admin/tabs/class-wp-members-admin-tab-captcha.php:139
+msgid "Secret Key"
+msgstr "Секретный ключ"
+
+#: includes/admin/class-wp-members-products-admin.php:502
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:240
+#: includes/class-wp-members-forms.php:1204
+#: includes/class-wp-members-user-profile.php:132
+msgid "None"
+msgstr "Отсутствует"
+
+#: includes/admin/class-wp-members-user-export.php:284
+#: includes/class-wp-members-dialogs.php:91
+#: includes/class-wp-members-dialogs.php:114
+msgid "Username"
+msgstr "Имя пользователя"
+
+#: includes/class-wp-members-dialogs.php:76
+msgid "Remember Me"
+msgstr "Запомнить меня"
+
+#: includes/admin/class-wp-members-user-export.php:199
+msgid "No"
+msgstr "Нет"
+
+#: includes/admin/class-wp-members-products-admin.php:109
+#: includes/admin/class-wp-members-user-export.php:199
+msgid "Yes"
+msgstr "Да"
+
+#: includes/admin/class-wp-members-admin-posts.php:203
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:68
+#: includes/admin/tabs/class-wp-members-fields-table.php:65
+#: includes/walkers/class-wp-members-walker-nav-menu.php:140
+msgid "Edit"
+msgstr "Изменить"
+
+#: includes/admin/class-wp-members-products-admin.php:186
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:63
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:250
+msgid "Pages"
+msgstr "Страниц"
+
+#: includes/admin/class-wp-members-admin-users.php:28
+#: includes/admin/class-wp-members-admin-users.php:34
+#: includes/admin/class-wp-members-admin-users.php:79
+msgid "Activate"
+msgstr "Активировать"
+
+#: includes/class-wp-members-dialogs.php:115
+msgid "Update Profile"
+msgstr "Обновить профиль"
+
+#: includes/class-wp-members-dialogs.php:84
+msgid "New password"
+msgstr "Новый пароль"
+
+#: includes/class-wp-members-dialogs.php:85
+msgid "Confirm new password"
+msgstr "Подтвердите новый пароль"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:281
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:283
+msgid "Stylesheet"
+msgstr "Таблица стилей"
+
+#: includes/admin/class-wp-members-admin-posts.php:32
+#: includes/admin/class-wp-members-admin-posts.php:35
+msgid "Hide"
+msgstr "Скрыть"
+
+#: includes/admin/class-wp-members-admin-api.php:276
+#: includes/admin/class-wp-members-admin-api.php:278
+msgid "Subject"
+msgstr "Тема"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:195
+msgid "text"
+msgstr "текст"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-captcha.php:74
+#: includes/admin/tabs/class-wp-members-admin-tab-dialogs.php:57
+#: includes/admin/tabs/class-wp-members-admin-tab-emails.php:109
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:134
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:78
+msgid "Need help?"
+msgstr "Нужна помощь?"
+
+#: includes/admin/dialogs.php:175
+msgid "Quick Start Guide"
+msgstr "Краткое руководство"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-captcha.php:198
+msgid "Image type"
+msgstr "Тип изображения"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:197
+msgid "textarea"
+msgstr "поле для ввода"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:198
+msgid "checkbox"
+msgstr "чекбокс"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:203
+msgid "password"
+msgstr "пароль"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:226
+msgid "Required?"
+msgstr "Обязательно?"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:370
+msgid "Options should be Option Name|option_value,"
+msgstr "Варианты должны быть вида \"Метка\"|\"значение\","
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:374
+msgid "Visit plugin site for more information"
+msgstr "Посетите сайт плагина для получения большей информации"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:495
+msgid "Manage Fields"
+msgstr "Изменить поля"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:90
+msgid "Manage Options"
+msgstr "Изменить настройки"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:217
+msgid "Notify admin"
+msgstr "Уведомить администратора"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:218
+msgid "Moderate registration"
+msgstr "Модерировать регистрацию"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:218
+msgid "Holds new registrations for admin approval"
+msgstr "Подтверждение регистрации администратором"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:164
+msgid "Trial period"
+msgstr "Ознакомительный период"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:220
+msgid "Ignore warning messages"
+msgstr "Игнорировать предупреждения"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:220
+msgid "Ignores WP-Members warning messages in the admin panel"
+msgstr "Скрывает предупреждения WP-Members в консоли администратора"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:296
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:323
+msgid "Update Settings"
+msgstr "Обновить настройки"
+
+#: includes/admin/class-wp-members-user-export.php:286
+msgid "Activated?"
+msgstr "Активирован?"
+
+#: includes/admin/class-wp-members-admin-users.php:343
+#: includes/admin/class-wp-members-user-export.php:292
+msgid "Subscription"
+msgstr "Подписка"
+
+#: includes/admin/class-wp-members-products-admin.php:69
+#: includes/admin/class-wp-members-products-admin.php:740
+#: includes/admin/class-wp-members-user-export.php:293
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:460
+msgid "Expires"
+msgstr "Истекает"
+
+#: includes/admin/class-wp-members-user-export.php:295
+msgid "Registered"
+msgstr "Зарегистрирован"
+
+#: includes/admin/class-wp-members-user-export.php:296
+msgid "IP"
+msgstr "IP"
+
+#: includes/class-wp-members-user-profile.php:58
+msgid "WP-Members Additional Fields"
+msgstr "WP-Members Дополнительные поля"
+
+#: includes/class-wp-members-forms.php:1906
+#: includes/class-wp-members-user-profile.php:510
+msgid "Activate this user?"
+msgstr "Активировать этого пользователя?"
+
+#: includes/class-wp-members-user-profile.php:500
+msgid "Reactivate this user?"
+msgstr "Активировать пользователя?"
+
+#: includes/class-wp-members-user-profile.php:505
+msgid "Deactivate this user?"
+msgstr "Заблокировать пользователя?"
+
+#: includes/class-wp-members-user-profile.php:559
+msgid "IP @ registration"
+msgstr "IP при регистрации"
+
+#: includes/admin/class-wp-members-admin-users.php:31
+#: includes/admin/class-wp-members-admin-users.php:37
+msgid "Export"
+msgstr "Выгрузить"
+
+#: includes/class-wp-members-dialogs.php:83
+#: includes/class-wp-members-dialogs.php:142
+msgid "Change Password"
+msgstr "Сменить пароль"
+
+#: includes/class-wp-members-dialogs.php:86
+msgid "Update Password"
+msgstr "Обновить пароль"
+
+#: includes/class-wp-members-dialogs.php:90
+msgid "Reset Forgotten Password"
+msgstr "Сбросить забытый пароль"
+
+#: includes/class-wp-members-dialogs.php:77
+msgid "Forgot password?"
+msgstr "Забыли пароль?"
+
+#: includes/class-wp-members-dialogs.php:78
+msgid "Click here to reset"
+msgstr "Нажмите для сброса"
+
+#: includes/class-wp-members-dialogs.php:79
+msgid "New User?"
+msgstr "Новый пользователь?"
+
+#: includes/class-wp-members-dialogs.php:80
+msgid "Click here to register"
+msgstr "Нажмите здесь для регистрации"
+
+#: includes/class-wp-members-dialogs.php:110
+msgid "Required field"
+msgstr "Обязательно для заполнения"
+
+#: includes/class-wp-members-dialogs.php:113
+msgid "Edit Your Information"
+msgstr "Редактирование ваших данных"
+
+#: includes/class-wp-members-user.php:1235
+msgid "<strong>ERROR</strong>: User has not been activated."
+msgstr "<strong>ОШИБКА</strong>: Пользователь не был активирован."
+
+#: includes/class-wp-members-dialogs.php:125
+msgid "Sorry, %s is a required field."
+msgstr "%s обязательно для ввода."
+
+#: includes/class-wp-members-dialogs.php:119
+msgid "Login Failed!"
+msgstr "Ошибка входа!"
+
+#: includes/class-wp-members-dialogs.php:120
+msgid "You entered an invalid username or password."
+msgstr "Неверное имя пользователя или пароль."
+
+#: includes/class-wp-members-dialogs.php:121
+msgid "Click here to continue."
+msgstr "Нажмите для продолжения."
+
+#: includes/class-wp-members-dialogs.php:141
+msgid "Edit My Information"
+msgstr "Изменить информацию обо мне"
+
+#: includes/class-wp-members-dialogs.php:143
+#: includes/class-wp-members-dialogs.php:146
+#: includes/class-wp-members-dialogs.php:148
+#: includes/class-wp-members-dialogs.php:153
+msgid "You are logged in as %s"
+msgstr "Вы вошли как %s"
+
+#: includes/class-wp-members-dialogs.php:128
+msgid "Sorry, username is a required field"
+msgstr "Имя пользователя обязательно для ввода."
+
+#: includes/class-wp-members-dialogs.php:133
+msgid "You must complete the CAPTCHA form."
+msgstr "Необходимо заполнить форму CAPTCHA."
+
+#: includes/deprecated.php:373
+msgid "We were unable to validate the public key."
+msgstr "Публичный ключ не прошел валидацию."
+
+#: includes/deprecated.php:377
+msgid "We were unable to validate the private key."
+msgstr "Закрытый ключ не прошел валидацию."
+
+#: includes/deprecated.php:389
+msgid "The parameters to verify were incorrect"
+msgstr "Параметры для проверки некорректны"
+
+#: includes/deprecated.php:393
+msgid "reCAPTCHA API keys are tied to a specific domain name for security reasons."
+msgstr "reCAPTCHA API-ключи привязаны к доменному имени из соображений безопасности."
+
+#: includes/deprecated.php:397
+msgid "The reCAPTCHA server was not reached.  Please try to resubmit."
+msgstr "Сервер reCAPTCHA недоступен.  Пожалуйста, попробуйте еще раз."
+
+#: includes/class-wp-members-dialogs.php:161
+msgid "Forgot?"
+msgstr "Забыли?"
+
+#: includes/class-wp-members-dialogs.php:154
+msgid "click here to log out"
+msgstr "выйти"
+
+#: includes/class-wp-members-widget.php:39
+#: includes/class-wp-members-widget.php:82
+msgid "Login Status"
+msgstr "Статус логина"
+
+#: includes/class-wp-members-widget.php:46
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: includes/class-wp-members-forms.php:2185 templates/tos.php:20
+msgid "Terms of Service"
+msgstr "Условия использования"
+
+#: templates/tos.php:32
+msgid "%sclose%s"
+msgstr "%sclose%s"
+
+#: templates/tos.php:34
+msgid "%sprint%s"
+msgstr "%sprint%s"
+
+#: includes/class-wp-members-dialogs.php:108
+#: includes/class-wp-members-dialogs.php:162
+#: includes/class-wp-members-shortcodes.php:794
+#: includes/class-wp-members-user.php:186
+msgid "Register"
+msgstr "Регистрация"
+
+#: includes/class-wp-members-user-profile.php:58
+msgid "Additional Information"
+msgstr "Дополнительная информация"
+
+#: includes/admin/class-wp-members-admin-api.php:359
+msgid "Options"
+msgstr "Настройки"
+
+#: includes/admin/class-wp-members-admin-api.php:360
+msgid "Fields"
+msgstr "Поля"
+
+#: includes/admin/class-wp-members-admin-api.php:361
+msgid "Dialogs"
+msgstr "Диалоги"
+
+#: includes/admin/class-wp-members-admin-api.php:362
+msgid "Emails"
+msgstr "Сообщения"
+
+#: includes/admin/dialogs.php:117
+msgid "Your WP settings allow anyone to register - this is not the recommended setting."
+msgstr "Ваш WP-Members настроен на разрешение всем зарегистрироваться - это нерекомендуемая настройка."
+
+#: includes/admin/dialogs.php:118
+msgid "You can %s change this here %s making sure the box next to \"Anyone can register\" is unchecked."
+msgstr "Вы можете %s изменить ее здесь%s, сняв галочку в чекбоксе \"Любой может зарегистрироваться\"."
+
+#: includes/admin/dialogs.php:123
+msgid "Your WP settings allow anyone to comment - this is not the recommended setting."
+msgstr "Ваш WP-Members настроен на разрешение всем оставлять комментарии - это нерекомендуемая настройка."
+
+#: includes/admin/dialogs.php:119
+msgid "This setting allows a link on the /wp-login.php page to register using the WP native registration process thus circumventing any registration you are using with WP-Members. In some cases, this may suit the users wants/needs, but most users should uncheck this option. If you do not change this setting, you can choose to ignore these warning messages under WP-Members Settings."
+msgstr "Эта настройка включает ссылку на /wp-login.php page для регистрации с использованием стандартного процесса регистрации WP, минуя механизм регистрации WP-Members. В некоторых случаях это может удовлетворить потребности пользователя, но большинству пользователей следует отключить эту опцию. Если вы не будете менять эту настройку, вы можете включить игнорирование этих предупреждений в настройках WP-Members."
+
+#: includes/admin/dialogs.php:124
+msgid "You can %s change this here %s by checking the box next to \"Users must be registered and logged in to comment.\""
+msgstr "Вы можете %s изменить ее здесь%s, поставив галочку в чекбоксе \"Пользователи должны быть зарегистрированы и авторизованы для комментирования.\""
+
+#: includes/admin/dialogs.php:125
+msgid "This setting allows any users to comment, whether or not they are registered. Depending on how you are using WP-Members will determine whether you should change this setting or not. If you do not change this setting, you can choose to ignore these warning messages under WP-Members Settings."
+msgstr "Этот параметр позволяет любому пользователю комментировать, зарегистрированы они или нет. В зависимости от того, как вы используете WP-Members, следует определить, изменить эту настройку или нет. Если вы не измените этот параметр, вы можете игнорировать эти предупреждения в настройках WP-Members."
+
+#: includes/admin/dialogs.php:129
+msgid "Your WP settings allow full text rss feeds - this is not the recommended setting."
+msgstr "Ваш WP-Members настроен на разрешение полнотекстовых rss-лент - это нерекомендуемая настройка."
+
+#: includes/admin/dialogs.php:130
+msgid "You can %s change this here %s by changing \"For each article in a feed, show\" to \"Summary.\""
+msgstr "Вы можете %s изменить ее здесь%s, указав для параметра \"Для каждой статьи в ленте отображать\" значенин \"Анонс\""
+
+#: includes/admin/dialogs.php:131
+msgid "Leaving this set to full text allows anyone to read your protected content in an RSS reader. Changing this to Summary prevents this as your feeds will only show summary text."
+msgstr "Оставляя эту настройку со значением \"весь текст\", вы позволяете всем видеть защищенное вами содержимое в лентах RSS. Изменение настройки на \"Аннотация\" защитит от этого"
+
+#: includes/admin/dialogs.php:135
+msgid "You have set WP-Members to hold registrations for approval"
+msgstr "Вы настроили WP-Members на задержку регистрации до подтверждения"
+
+#: includes/admin/dialogs.php:136
+msgid "but you have not changed the default message for \"Registration Completed\" under \"WP-Members Dialogs and Error Messages.\"  You should change this message to let users know they are pending approval."
+msgstr ", но вы не изменили сообщение по умолчанию \"Регистрация завершена\" в разделе \"WP-Members Диалоги и сообщения об ошибках.\"  Вам следует изменить это сообщение, чтобы пользователи знали, что они ожидают утверждения модератором."
+
+#: includes/admin/dialogs.php:140
+msgid "You have turned on reCAPTCHA"
+msgstr "Вы включили reCAPTHA"
+
+#: includes/admin/dialogs.php:141
+msgid "but you have not entered API keys.  You will need both a public and private key.  The CAPTCHA will not display unless a valid API key is included."
+msgstr ", но вы не ввели API-ключи. Необходимо ввести открытый и закрытый ключи. CAPTCHA не будет отображаться пока не будет введен корректный API-ключ"
+
+#: includes/admin/dialogs.php:174
+msgid "Version:"
+msgstr "Версия:"
+
+#: includes/admin/dialogs.php:186
+msgid "Follow"
+msgstr "Следите в "
+
+#: includes/admin/tabs/class-wp-members-admin-tab-captcha.php:117
+msgid "reCAPTCHA Keys"
+msgstr "Ключи reCAPTCHA"
+
+#: includes/admin/class-wp-members-admin-api.php:461
+msgid "Restricted post (or page), displays above the login/registration form"
+msgstr "Запись (или страница) с ограниченным доступом (будет отображаться перед формами входа/регистрации)"
+
+#: includes/admin/class-wp-members-admin-api.php:462
+msgid "Username is taken"
+msgstr "Имя уже используется"
+
+#: includes/admin/class-wp-members-admin-api.php:463
+msgid "Email is registered"
+msgstr "Email зарегистрирован"
+
+#: includes/admin/class-wp-members-admin-api.php:464
+msgid "Registration completed"
+msgstr "Регистрация завершена"
+
+#: includes/admin/class-wp-members-admin-api.php:465
+msgid "User update"
+msgstr "Пользователь обновлен"
+
+#: includes/admin/class-wp-members-admin-api.php:466
+msgid "Passwords did not match"
+msgstr "Пароли не совпадают"
+
+#: includes/admin/class-wp-members-admin-api.php:467
+msgid "Password changes"
+msgstr "Пароль изменен"
+
+#: includes/admin/class-wp-members-admin-api.php:468
+msgid "Username or email do not exist when trying to reset forgotten password"
+msgstr "Имя пользователя или email не найдены при попытке сбросить забытый пароль"
+
+#: includes/admin/class-wp-members-admin-api.php:469
+msgid "Password reset"
+msgstr "Пароль сброшен"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-dialogs.php:67
+msgid "Dialogs and Error Messages"
+msgstr "Диалоги и Сообщения об ошибках"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-dialogs.php:69
+msgid "You can customize the text for dialogs and error messages. Simple HTML is allowed %s etc."
+msgstr "Вы можете подстроить тексты диалогов и сообщений об ошибках. Допускается простой HTML %s и т.д."
+
+#: includes/admin/tabs/class-wp-members-admin-tab-dialogs.php:80
+msgid "Terms of Service (TOS)"
+msgstr "Условия предоставления услуг"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-dialogs.php:87
+msgid "Update Dialogs"
+msgstr "Обновить Диалоги"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-dialogs.php:124
+msgid "WP-Members dialogs were updated"
+msgstr "Диалоги WP-Members были обновлены"
+
+#: includes/admin/class-wp-members-admin-api.php:378
+msgid "New Registration"
+msgstr "Новая регистрация"
+
+#: includes/admin/class-wp-members-admin-api.php:396
+msgid "Registration is Moderated"
+msgstr "Регистрация прошла модерацию"
+
+#: includes/admin/class-wp-members-admin-api.php:412
+msgid "Registration is Moderated, User is Approved"
+msgstr "Регистрация прошла модерацию, пользователь активирован"
+
+#: includes/admin/class-wp-members-admin-api.php:420
+msgid "Password Reset"
+msgstr "Сбросить пароль"
+
+#: includes/admin/class-wp-members-admin-api.php:435
+msgid "Admin Notification"
+msgstr "Уведомление администратора"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-emails.php:93
+msgid "Email Signature"
+msgstr "Подпись"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-emails.php:57
+msgid "Email Messages"
+msgstr "Сообщения"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-emails.php:60
+msgid "You can customize the content of the emails sent by the plugin."
+msgstr "Вы можете отредактировать содержимое писем, отсылаемых плагином."
+
+#: includes/admin/tabs/class-wp-members-admin-tab-emails.php:62
+msgid "A list of shortcodes is available here."
+msgstr "Список shortcode`ов доступен здесь."
+
+#: includes/admin/tabs/class-wp-members-admin-tab-emails.php:70
+#: includes/admin/tabs/class-wp-members-admin-tab-emails.php:74
+#: includes/admin/tabs/class-wp-members-admin-tab-emails.php:93
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:163
+msgid "(optional)"
+msgstr "(необязательно)"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-emails.php:101
+msgid "Update Emails"
+msgstr "Обновить сообщения"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-emails.php:172
+msgid "WP-Members emails were updated"
+msgstr "Сообщения WP-Members были обновлены"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:595
+msgid "WP-Members fields were updated"
+msgstr "Поля WP-Members были обновлены"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:174
+msgid "Field Label"
+msgstr "Метка поля"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:189
+#: includes/admin/tabs/class-wp-members-fields-table.php:59
+msgid "Field Type"
+msgstr "Тип поля"
+
+#: includes/class-wp-members-dialogs.php:155
+msgid "Login Failed!<br />You entered an invalid username or password."
+msgstr "Ошибка!<br />Неверное имя пользователя или пароль."
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:205
+msgid "file"
+msgstr "файл"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:292
+msgid "Accepted file types:"
+msgstr "Разрешенные типы файлов:"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:297
+msgid "Accepted file types should be set like this: jpg|jpeg|png|gif"
+msgstr "Разрешенные типы файлов нужно ввести так: jpg|jpeg|png|gif"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:304
+msgid "Checked by default?"
+msgstr "Отмечено по умолчанию?"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:400
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:527
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:528
+msgid "Add Field"
+msgstr "Добавить поле"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:455
+msgid "Registration Date"
+msgstr "Дата регистрации"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:125
+msgid "Show Registration Form"
+msgstr "Показывать форму регистрации"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:124
+msgid "Show Login Form"
+msgstr "Показывать форму логина"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:234
+msgid "Attribution"
+msgstr "Ссылка на разработчика"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:236
+msgid "Attribution is appreciated!  Display \"powered by\" link on register form?"
+msgstr "Ссылка на разработчика приветствуется! Отображать ссылку \"powered by\" (\"работает на\") в форме для регистрации?"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:126
+msgid "Auto Excerpt:"
+msgstr "Автоматический анонс: "
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:148
+msgid "Number of words in excerpt:"
+msgstr "Количество слов в анонсе:"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:255
+msgid "Login Page:"
+msgstr "Страница входа:"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:256
+msgid "Specify a login page (optional)"
+msgstr "Установить страницу входа (опционально)"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:260
+msgid "Register Page:"
+msgstr "Страница регистрации: "
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:261
+msgid "For creating a register link in the login form"
+msgstr "Для создания регистрационной ссылки в форме логина"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:265
+msgid "User Profile Page:"
+msgstr "Страница профиля пользователя:"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:266
+msgid "For creating a forgot password link in the login form"
+msgstr "Для создания ссылки для забытого пароля в форме логина"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:291
+msgid "Custom Stylesheet:"
+msgstr "Пользовательская таблица стилей:"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:573
+msgid "WP-Members settings were updated"
+msgstr "Настройки WP-Members были обновлены"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:653
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:684
+msgid "USE CUSTOM URL BELOW"
+msgstr "ИСПОЛЬЗУЙТЕ ВАШ URL НИЖЕ"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:673
+msgid "Select a page"
+msgstr "Выберите страницу"
+
+#: includes/admin/class-wp-members-admin-users.php:32
+#: includes/admin/class-wp-members-admin-users.php:38
+msgid "Export All Users"
+msgstr "Выгрузить данные всех пользователей "
+
+#: includes/class-wp-members-widget.php:24
+msgid "Displays the WP-Members sidebar login."
+msgstr "Отображать логин WP-Members в сайдбаре."
+
+#: includes/class-wp-members-widget.php:50
+msgid "Redirect to (optional):"
+msgstr "Перенаправить на (опционально):"
+
+#: includes/class-wp-members-dialogs.php:136
+msgid "There was an error with the CAPTCHA form."
+msgstr "Произошла ошибка в форме CAPTCHA."
+
+#: includes/class-wp-members-dialogs.php:145
+msgid "Begin using the site."
+msgstr "Начните пользоваться сайтом."
+
+#: includes/class-wp-members-dialogs.php:147
+msgid "Click to log out"
+msgstr "Нажмите для выхода."
+
+#: includes/class-wp-members-dialogs.php:149
+msgid "click to log out"
+msgstr "нажмите для выхода"
+
+#: includes/class-wp-members-dialogs.php:122
+msgid "Password fields cannot be empty"
+msgstr "Поля \"Пароль\" не могут быть пустыми"
+
+#: includes/class-wp-members-dialogs.php:50
+#: includes/class-wp-members-dialogs.php:92
+msgid "Email"
+msgstr "Эл.почта"
+
+#: includes/class-wp-members-dialogs.php:93
+msgid "Reset Password"
+msgstr "Сбросить пароль"
+
+#: includes/class-wp-members-dialogs.php:107
+msgid "Reset Form"
+msgstr "Сбросить форму"
+
+#: includes/class-wp-members-dialogs.php:104
+msgid "Choose a Username"
+msgstr "Введите имя пользователя"
+
+#: includes/class-wp-members-dialogs.php:105
+msgid "Input the code:"
+msgstr "Введите код:"
+
+#: includes/class-wp-members-dialogs.php:135
+msgid "There was an error processing the form."
+msgstr "Произошла ошибка в обработке формы."
+
+#: includes/class-wp-members-dialogs.php:126
+msgid "You must enter a valid email address."
+msgstr "Введите правильный email."
+
+#: includes/class-wp-members-dialogs.php:127
+msgid "The username cannot include non-alphanumeric characters."
+msgstr "Имя пользователя должно содержать только буквы и цифры."
+
+#: includes/class-wp-members-dialogs.php:131
+#: includes/class-wp-members-dialogs.php:174
+msgid "Passwords did not match."
+msgstr "Пароли не совпадают."
+
+#: includes/class-wp-members-dialogs.php:132
+msgid "Emails did not match."
+msgstr "Поля Email не совпадают."
+
+#: includes/class-wp-members-dialogs.php:134
+msgid "CAPTCHA was not valid."
+msgstr "CAPTCHA недействительна."
+
+#: includes/class-wp-members-captcha.php:286 includes/deprecated.php:401
+msgid "You have entered an incorrect code value. Please try again."
+msgstr "Вы ввели некорректный код. Пожалуйста, попробуйте еще раз."
+
+#: includes/class-wp-members-shortcodes.php:723
+msgid "Click here to log out."
+msgstr "Нажмите здесь для выхода."
+
+#: includes/class-wp-members-dialogs.php:66
+msgid "You are not logged in."
+msgstr "Вы не вошли."
+
+#: includes/admin/dialogs.php:176
+msgid "Online User Guide"
+msgstr "Он-лайн инструкция"
+
+#: includes/admin/dialogs.php:177
+msgid "FAQs"
+msgstr "ЧаВо"
+
+#: includes/admin/dialogs.php:184
+msgid "Thank you for using WP-Members"
+msgstr "Спасибо за использование WP-Members"
+
+#: includes/admin/dialogs.php:185
+msgid "A plugin developed by"
+msgstr "Плагин разработан"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-captcha.php:319
+msgid "CAPTCHA was updated for WP-Members"
+msgstr "CAPTCHA была обновлена для  WP-Members"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-emails.php:69
+msgid "Set a custom email address"
+msgstr "Указать другой адрес email"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-emails.php:73
+msgid "Set a custom email name"
+msgstr "Указать другое имя отправителя"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:169
+msgid "Edit Field"
+msgstr "Редактировать поле"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:169
+msgid "Add a Field"
+msgstr "Добавить поле"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:176
+msgid "The name of the field as it will be displayed to the user."
+msgstr "Это название поля будет показано пользователю."
+
+#. Plugin Name of the plugin
+msgid "WP-Members"
+msgstr "WP-Members"
+
+#. Author of the plugin
+msgid "Chad Butler"
+msgstr "Chad Butler"
+
+#: includes/admin/dialogs.php:203 includes/admin/dialogs.php:207
+msgid "Latest from RocketGeek"
+msgstr "Последнее от RocketGeek"
+
+#: includes/admin/dialogs.php:236 includes/admin/dialogs.php:249
+msgid "Latest from ButlerBlog"
+msgstr "Последнее в ButlerBlog"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-captcha.php:120
+msgid "reCAPTCHA requires an API key, consisting of a \"site\" and a \"secret\" key. You can sign up for a %s free reCAPTCHA key%s"
+msgstr "reCAPTCHA требует ключ API состоящий из \"сайта\" и секретного ключа, Вы можете зарегистрироваться для  %s бесплатного ключа reCAPTCHA%s"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-captcha.php:170
+msgid "Characters for image"
+msgstr "Символы для изображения"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-captcha.php:174
+msgid "Number of characters"
+msgstr "Число символов"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-captcha.php:178
+msgid "Image dimensions"
+msgstr "Размер изображения"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-captcha.php:182
+msgid "Font color of characters"
+msgstr "Цвет шрифта символов"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-captcha.php:186
+msgid "Background color of image"
+msgstr "Фоновый цвет изображения"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-captcha.php:190
+msgid "Font size"
+msgstr "Размер шрифта"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-captcha.php:194
+msgid "Width between characters"
+msgstr "Пробел между символами"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-captcha.php:213
+msgid "To use Really Simple CAPTCHA, you must have the Really Simple CAPTCHA plugin installed and activated."
+msgstr "для использования Really Simple CAPTCHA требуется установленый и активированый плагин Really Simple CAPTCHA"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-captcha.php:241
+msgid "Update CAPTCHA Settings"
+msgstr "Обновить настройки CAPTCHA"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:632
+msgid "Sorry, \"%s\" is a <a href=\"https://codex.wordpress.org/Function_Reference/register_taxonomy#Reserved_Terms\" target=\"_blank\">reserved term</a>. Field was not added."
+msgstr "Извините, \"%s\" является <a href=\"https://codex.wordpress.org/Function_Reference/register_taxonomy#Reserved_Terms\" target=\"_blank\">зарезервированным</a>. Поле не добавлено."
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:673
+msgid "Checked value is required for checkboxes. Nothing was updated."
+msgstr "Отмеченное значение требуется для чекбокса. Ничего не обновлено."
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:315
+msgid "Stored value if checked:"
+msgstr "Сохраненное значение если отмечено:"
+
+#: includes/admin/tabs/class-wp-members-fields-table.php:63
+msgid "Users Screen"
+msgstr "Экран пользователей"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:458
+msgid "Registration IP"
+msgstr "IP при регистрации"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:217
+msgid "Notify %s for each new registration? %s"
+msgstr "Уведомлять %s при новой регистрации? %s"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:164
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:315
+#: includes/class-wp-members-forms.php:1637
+#: includes/class-wp-members-forms.php:1829
+#: includes/class-wp-members-user-profile.php:181
+msgid "(required)"
+msgstr "(требуется)"
+
+#: includes/class-wp-members-dialogs.php:72
+msgid "Existing Users Log In"
+msgstr "Вход для зарегистрированных пользователей"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:185
+msgid "The database meta value for the field. It must be unique and contain no spaces (underscores are ok)."
+msgstr "Мета значение базы данных для поля. Должно быть уникально и не содержать пробелов (подчеркивание можно)"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-options.php:123
+msgid "Show Excerpts"
+msgstr "Показывать анонс"
+
+#: includes/class-wp-members-dialogs.php:103
+msgid "New User Registration"
+msgstr "Регистрация нового пользователя"
+
+#: includes/deprecated.php:381
+msgid "The challenge parameter of the verify script was incorrect."
+msgstr "Параметр проверочного скрипта некорректен"
+
+#: includes/class-wp-members.php:1575
+msgid "(more&hellip;)"
+msgstr "(далее&hellip;)"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:217
+#: includes/admin/tabs/class-wp-members-fields-table.php:60
+msgid "Display?"
+msgstr "Показывать?"
+
+#: includes/deprecated.php:385
+msgid "The CAPTCHA solution was incorrect."
+msgstr "Решение CAPTCHA неверно."
+
+#: includes/class-wp-members-dialogs.php:160 includes/class-wp-members.php:1762
+msgid "log in"
+msgstr "войти"
+
+#: includes/class-wp-members-dialogs.php:75
+#: includes/class-wp-members-shortcodes.php:797
+msgid "Log In"
+msgstr "Войти"
+
+#: includes/admin/class-wp-members-admin-api.php:279
+msgid "Body"
+msgstr "Сообщение"
+
+#. Plugin URI of the plugin
+msgid "https://rocketgeek.com"
+msgstr "http://rocketgeek.com"
+
+#: includes/admin/tabs/class-wp-members-fields-table.php:43
+msgid "delete"
+msgstr "Удалить"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:627
+msgid "A field with that meta key already exists"
+msgstr "Поле с таким именем настройки уже существует"
+
+#: includes/admin/tabs/class-wp-members-admin-tab-fields.php:620
+msgid "Meta Key must contain only letters, numbers, and underscores"
+msgstr "Настройка имени может содержать только буквы, цифры и символы подчеркивания"
